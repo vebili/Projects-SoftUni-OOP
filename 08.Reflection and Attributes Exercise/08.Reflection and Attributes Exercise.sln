@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Command Pattern", "1.Command_Pattern\1. Command Pattern.csproj", "{8713A6C0-27B1-4069-B1A6-2E9C1BA9BF4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandPattern", "1.CommandPattern1\CommandPattern.csproj", "{479E0D26-7CF5-4495-BAFF-F8C47A380BEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Validation_Attributes", "1.Validation_Attributes\1.Validation_Attributes.csproj", "{34C71E20-585F-400F-BD62-E88545EE14A1}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8713A6C0-27B1-4069-B1A6-2E9C1BA9BF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8713A6C0-27B1-4069-B1A6-2E9C1BA9BF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8713A6C0-27B1-4069-B1A6-2E9C1BA9BF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8713A6C0-27B1-4069-B1A6-2E9C1BA9BF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479E0D26-7CF5-4495-BAFF-F8C47A380BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479E0D26-7CF5-4495-BAFF-F8C47A380BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479E0D26-7CF5-4495-BAFF-F8C47A380BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479E0D26-7CF5-4495-BAFF-F8C47A380BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C71E20-585F-400F-BD62-E88545EE14A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C71E20-585F-400F-BD62-E88545EE14A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C71E20-585F-400F-BD62-E88545EE14A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C71E20-585F-400F-BD62-E88545EE14A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
