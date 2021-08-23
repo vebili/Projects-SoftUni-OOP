@@ -69,16 +69,5 @@ namespace Tests
             Assert.That(warrior.HP, Is.EqualTo(0));
         }
 
-        //[Test]
-        //public void Attack_DecreasesEnemmyHealthPointsByAttakerDamage()
-        //{
-        //    int warriorInitialHp = 100;
-        //    Warrior attacker = new Warrior("Attacker", 50, 100);
-        //    Warrior warrior = new Warrior("Warrior", 30, warriorInitialHp);
-
-        //    attacker.Attack(warrior);
-
-        //    Assert.That(warrior.HP, Is.EqualTo(warriorInitialHp - attacker.Damage));
-        //}
     }
 }
