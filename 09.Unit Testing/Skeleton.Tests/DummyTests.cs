@@ -7,7 +7,6 @@ public class DummyTests
     private Dummy deadDummy;
     private int health = 5;
     private int experience = 10;
-
     [SetUp]
     public void SetUp()
     {

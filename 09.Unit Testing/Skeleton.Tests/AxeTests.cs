@@ -8,7 +8,6 @@ public class AxeTests
     private int durability = 6;
     private Axe axe;
     private Dummy dummy;
-
     [SetUp]
     public void SetUp()
     {

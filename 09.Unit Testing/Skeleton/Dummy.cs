@@ -10,7 +10,6 @@ public class Dummy
         this.health = health;
         this.experience = experience;
     }
-
     public int Health 
     {
         get { return this.health; }

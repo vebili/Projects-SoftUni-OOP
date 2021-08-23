@@ -11,7 +11,6 @@ public class Axe
         this.attackPoints = attack;
         this.durabilityPoints = durability;
     }
-
     public int AttackPoints
     {
         get { return this.attackPoints; }

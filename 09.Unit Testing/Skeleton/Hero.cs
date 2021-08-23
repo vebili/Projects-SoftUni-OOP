@@ -10,7 +10,6 @@
         this.experience = 0;
         this.weapon = new Axe(10, 10);
     }
-
     public string Name
     {
         get { return this.name; }
